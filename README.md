@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsMwamOffi
 - 👀 I’m interested in Minecraft Skin Packs
-- 🌱 I’m currently learning Json
+- 🌱 I’m currently learning HTML and Python
 - 📫 How to reach me ItsMwamOffi#9383
 
 <!---
